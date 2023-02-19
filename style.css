@@ -1,0 +1,57 @@
+h1
+ {
+       text-align: center;
+       color:red;
+       border-style:dashed;
+       padding-top:  20px;
+       border-top-left-radius: 5px;
+       border-top-right-radius: 2px;
+       height: 300px;
+       width: 600px;
+       border-style: dotted;
+       border-right-color:  red;
+       border-left-color:red;
+       margin-top: 50px;
+       
+ }
+       
+       
+ }
+ p
+ {
+       
+       font-size: 20pt;
+       text-align: center;
+       color:red;
+       
+
+
+ }
+
+ em
+ {
+       font-weight:bold;
+ }
+
+ a:hover
+ {
+       text-decoration: underline;
+       color:tan;
+       font-size: large;
+ }
+
+ body
+ {
+      background-image: url('https://static.wixstatic.com/media/447286_7aca29ff0d7f4b03975a252f6fb65517~mv2.gif');
+      background-repeat: no-repeat;
+      background-attachment:fixed;
+      background-size: cover;
+ }
+ h1
+ {
+       text-align: center;
+       color:brown;
+       border-style:dashed;
+    }
+ 
+ 
